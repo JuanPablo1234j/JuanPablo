@@ -166,7 +166,7 @@ echo -e "\033[1;33mALTERE A SENHA DEPOIS QUE LOGAR AO PAINEL WEB SSH !!\033[0m"
 cat /dev/null > ~/.bash_history && history -c
 }
 
-panel_v11 () {
+painel_v11 () {
 clear
 IP=$(wget -qO- ipv4.icanhazip.com)
 echo "America/Sao_Paulo" > /etc/timezone
