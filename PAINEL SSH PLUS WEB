@@ -209,7 +209,7 @@ clear
 echo -e "                \033[1;31mATENÇÃO"
 echo ""
 echo -e "\033[1;32mINTRODUZA O MESMO PASSO NA HORA QUE SOLICITAR"
-echo -e "\033[1;32mSEMPRE CONFIRME AS PREGUNTAS COM \033[1;37m Y"
+echo -e "\033[1;32mSEMPRE CONFIRME AS PERGUNTAS COM \033[1;37m Y"
 echo ""
 echo -ne "\033[1;33mENTER PARA CONTINUAR!\033[1;37m"; read
 mysql_install_db
