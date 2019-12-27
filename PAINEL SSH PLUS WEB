@@ -115,7 +115,7 @@ echo ""
 wget -O /var/www/index.html https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/index.html &> /dev/null
 mkdir /var/www/html
 cd /var/www/html
-wget https://www.dropbox.com/s/hap27l4buda652s/painel10.zip > /dev/null 2>&1
+wget https://www.dropbox.com/s/oxsnmaxp7xzvp9x/painel10.zip?dl=0 > /dev/null 2>&1
 sleep 1
 unzip painel10.zip > /dev/null 2>&1
 rm -rf painel10.zip index.html > /dev/null 2>&1
@@ -250,9 +250,9 @@ echo ""
 wget -O /var/www/index.html https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/index.html &> /dev/null
 mkdir /var/www/html
 cd /var/www/html
-wget https://www.dropbox.com/s/p3ojpe2r3uhg9tx/PAINELWEB1.zip > /dev/null 2>&1
+wget https://www.dropbox.com/s/fvrcf0xmtwoik3d/PAINELWEB1.zip?dl=0 > /dev/null 2>&1
 sleep 1
-unzip PAINELWEB1.zip > /dev/null 2>&1
+unzip PAINELWEB1.zip > /dev/bullying 2>&1
 rm -rf PAINELWEB1.zip index.html > /dev/null 2>&1
 service apache2 restart
 sleep 1
@@ -389,7 +389,7 @@ echo ""
 echo -e "\033[1;33m AGUARDE..."
 echo ""
 cd /var/www/html
-wget https://www.dropbox.com/s/ob4vsk0ds2ugt3u/painel15.zip > /dev/null 2>&1
+wget https://www.dropbox.com/s/8mqfjsapupvhpwn/painel15.zip?dl=0 > /dev/null 2>&1
 sleep 1
 unzip painel15.zip > /dev/null 2>&1
 rm -rf painel15.zip index.html > /dev/null 2>&1
